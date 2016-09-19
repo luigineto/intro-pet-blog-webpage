@@ -1,0 +1,35 @@
+h1 {
+  color: green;
+  font-family: cursive;
+  text-align: left;
+}
+
+h2 {
+  color: green;
+  font-family: sans-serif;
+  text-align: left;
+}
+
+h3 {
+  color: gray;
+  font-family: serif;
+  text-align: left;
+}
+
+p {
+  font-family: sans-serif;
+  font-weight: lighter;
+  text-align: left;
+}
+
+ul {
+  font-size: 15px;
+  font-family: fantasy;
+  line-height: 25px;
+}
+
+ol {
+  font-size: 15px;
+  font-family: fantasy;
+  line-height: 25px;
+}
