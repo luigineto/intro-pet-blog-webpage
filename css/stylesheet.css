@@ -33,3 +33,7 @@ ol {
   font-family: fantasy;
   line-height: 25px;
 }
+
+.flash {
+  color: green;
+}
