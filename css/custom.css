@@ -1,0 +1,117 @@
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+h1 {
+  color: orangered !important;
+  text-align: center;
+}
+
+h2 {
+  font-size: 36px;
+  font-weight: lighter;
+  font-family: 'Grand Hotel', cursive;
+  text-align: center;
+}
+
+h3 {
+  margin-bottom: 42px;
+
+  font-weight: 200;
+  text-align: center;
+}
+
+h4 {
+  color: orangered;
+  font-size: 32px;
+  font-family: 'Grand Hotel', cursive;
+  text-align: center;
+}
+
+p {
+  font-size: 16px; 
+}
+
+footer p {
+  margin-top: 40px;
+
+  font-size: 12px;
+  font-style: italic;
+  text-align: center;
+}
+
+/* Navbar */
+.nav {
+  background-color: white;
+}
+
+.navbar-brand {
+  font-size: 24px;
+  font-weight: bolder;
+  font-family: 'Oswald', sans-serif;
+}
+
+.navbar-brand span{
+  color: orangered;
+  font-size: 28px;
+  font-weight: lighter;
+  font-family: 'Grand Hotel', cursive;
+  text-transform: lowercase;
+}
+
+/* Columns */
+
+.col-sm-4 {
+  margin-bottom: 40px;
+}
+
+.col-sm-4 img {
+  height: 150px;
+
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.col-sm-4 p {
+  text-align: center;
+}
+
+.col-sm-4 ul li {
+  margin-left: 25%;
+  line-height: 25px;
+  list-style: none;
+}
+
+.col-sm-4 ol {
+  margin-left: 25%;
+  line-height: 25px;
+}
+
+/* Classes */
+.flash {
+  color: orangered;
+}
+
+/* ID's */
+#logo {
+  width: 40px;
+
+  margin-top: -10px;
+}
+
+#tipo {
+  color: black;
+  text-transform: uppercase;
+}
+
+#brutus {
+  width: 80%;
+
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+}
